@@ -1,1 +1,1 @@
-export Test from './plugins/miradorImageToolsPlugin';
+export CollectionViewer from './plugins/CollectionViewer';

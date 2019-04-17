@@ -9,7 +9,7 @@ import SidePanel from './SidePanel'
 import settings from 'mirador/dist/es/src/config/settings';
 import * as actions from 'mirador/dist/es/src/state/actions';
 
-class CollectiionViewer extends Component {
+class CollectionViewer extends Component {
   constructor(props){
     super(props)
     this.state = {
