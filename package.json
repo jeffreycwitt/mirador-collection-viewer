@@ -2,7 +2,14 @@
   "name": "mirador-collection-viewer",
   "version": "0.1.0",
   "description": "mirador-collection viewer React component",
-  "author": "Jeffrey C. Witt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffreycwitt/mirador-collection-viewer"
+  },
+  "author": {
+    "name": "Jeffrey C. Witt",
+    "url": "http://jeffreycwitt.com"
+  },
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
