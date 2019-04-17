@@ -1,7 +1,8 @@
 {
-  "name": "mirador-image-tools",
+  "name": "mirador-collection-viewer",
   "version": "0.1.0",
-  "description": "mirador-image-tools React component",
+  "description": "mirador-collection viewer React component",
+  "author": "Jeffrey C. Witt",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
